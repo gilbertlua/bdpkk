@@ -186,7 +186,7 @@ class Page1 extends React.PureComponent {
     return (
       <div className="home-page page1" id='bdpkk'>
         <div className="home-page-wrapper" id="page1-wrapper">
-          <h2>What can <span>We</span> do for you </h2>
+          <h2>Program Bidang PKK </h2>
           <div className="title-line-wrapper page1-line">
             <div className="title-line" />
           </div>

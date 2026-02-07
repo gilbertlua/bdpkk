@@ -175,9 +175,8 @@ class Page2 extends React.PureComponent {
             <div className="title-line" />
           </div>
 
-
-
-          <div>
+          <OverPack>
+                      <div>
             <div className="banner-wrapper" id=''>
                   <QueueAnim className="banner-title-wrapper" type='right'>
                     <div key="line" className="title-line-wrapper">
@@ -210,9 +209,7 @@ class Page2 extends React.PureComponent {
                 </div>
           </div>
 
-          <div className='carausel'>
-
-          </div>
+          </OverPack>
           <OverPack>
             <div>
               {children}        

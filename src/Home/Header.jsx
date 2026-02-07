@@ -77,7 +77,7 @@ class Header extends React.Component {
                 <a
                   id="preview-button"
                   target="_blank"
-                  href="http://preview.pro.ant.design"
+                  href="image.png"
                   rel="noopener noreferrer"
                 >
                   <Button icon="eye-o">
