@@ -201,7 +201,7 @@ class Page2 extends React.PureComponent {
                   <TweenOne animation={{ opacity: 1 }} className="banner-image-wrapper">
                       <img 
                         width={500} 
-                        src="./public/assets/image-scholarship.jpg" 
+                        src="./page2-scholarship.jpg" 
                         alt="Scholarship" 
                         className="floating-image"
                       />

@@ -5,7 +5,7 @@ import { Row, Col, Icon, Menu, Button, Popover } from 'antd';
 
 import { enquireScreen } from 'enquire-js';
 
-const LOGO_URL = 'logo.jfif';
+const LOGO_URL = './logo.jfif';
 
 class Header extends React.Component {
   state = {
@@ -77,7 +77,7 @@ class Header extends React.Component {
                 <a
                   id="preview-button"
                   target="_blank"
-                  href="image.png"
+                  href="./image.png"
                   rel="noopener noreferrer"
                 >
                   <Button icon="eye-o">
