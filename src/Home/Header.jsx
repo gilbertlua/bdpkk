@@ -28,10 +28,10 @@ class Header extends React.Component {
           <a href='#'>HOME</a>
         </Menu.Item>
         <Menu.Item key="docs">
-          <a href='#bidpkk'>BIDANG PKK</a>
+          <a href='#bdpkk'>BIDANG PKK</a>
         </Menu.Item>
         <Menu.Item key="components">
-          <a>BEASISWA</a>
+          <a href='#beasiswa'>BEASISWA</a>
         </Menu.Item>
         {
           menuMode === 'inline' && (

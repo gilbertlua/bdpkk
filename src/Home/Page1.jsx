@@ -184,18 +184,9 @@ class Page1 extends React.PureComponent {
       </QueueAnim>
     ));
     return (
-      <div className="home-page page1" >
+      <div className="home-page page1" id='bdpkk'>
         <div className="home-page-wrapper" id="page1-wrapper">
-          {!this.props.isMobile && (
-            <Parallax
-              className="page1-bg"
-              animation={{ translateY: 200, ease: 'linear', playScale: [0, 1.65] }}
-              location="page1-wrapper"
-            >
-              Feature
-            </Parallax>
-          )}
-          <h2>What can <span>WE</span> do for you </h2>
+          <h2>What can <span>We</span> do for you </h2>
           <div className="title-line-wrapper page1-line">
             <div className="title-line" />
           </div>

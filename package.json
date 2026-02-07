@@ -6,6 +6,7 @@
   "dependencies": {
     "@ant-design/icons": "^6.1.0",
     "antd": "^2.13.10",
+    "assets": "^3.0.1",
     "enquire-js": "^0.1.0",
     "prop-types": "^15.6.0",
     "rc-queue-anim": "^1.4.0",
